@@ -22,4 +22,4 @@ Please follow the terms of the license.
 ## License
 
 All contents of this repository are licensed under the **MIT License**.  
-See the [`LICENSE`](LICENSE) file for more details.
+See the [LICENSE](LICENSE) file for more details.
